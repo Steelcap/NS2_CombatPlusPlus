@@ -22,7 +22,6 @@ ModLoader.SetupFileHook( "lua/Player_Client.lua", "lua/CPPPlayer_Client.lua", "p
 ModLoader.SetupFileHook( "lua/Marine.lua", "lua/CPPMarine.lua", "post" )
 ModLoader.SetupFileHook( "lua/Marine_Client.lua", "lua/CPPMarine_Client.lua", "post" )
 ModLoader.SetupFileHook( "lua/Marine_Server.lua", "lua/CPPMarine_Server.lua", "post" )
-ModLoader.SetupFileHook( "lua/AlienUpgradeManager.lua", "lua/CPPAlienUpgradeManager.lua", "post" )
 ModLoader.SetupFileHook( "lua/Alien.lua", "lua/CPPAlien.lua", "post" )
 ModLoader.SetupFileHook( "lua/Alien_Client.lua", "lua/CPPAlien_Client.lua", "post" )
 ModLoader.SetupFileHook( "lua/Alien_Server.lua", "lua/CPPAlien_Server.lua", "post" )
